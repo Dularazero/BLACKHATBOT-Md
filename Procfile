@@ -1,1 +1,1 @@
-web: node . -- db 'mongodb+srv://blackhatbot:<password>@cluster0.ugqbq.mongodb.net/BLACKHATBOT-Md?retryWrites=true&w=majority'
+web: node . --server --db 'mongodb+srv://Akame:Dulara2003@cluster0.s8qad.mongodb.net/myFirstDatabase?retryWrites=true&w=majority'
