@@ -166,8 +166,8 @@ let handler = async (m, { conn, usedPrefix: _p }) => {
            hydratedFooterText: wm,
            hydratedButtons: [{
              urlButton: {
-               displayText: '💠 Source Code',
-               url: 'https://github.com/koleksibot/BLACKHATBOT-Md'
+               displayText: '💠 TELEGRAM',
+               url: 'https://t.me/WhatsappGang'
              }
 
            },
